@@ -1,0 +1,21 @@
+{
+  "optimization_summary": {
+    "timestamp": "2026-04-01T20:11:03.985790",
+    "total_satellites": 294,
+    "total_collision_alerts": 60,
+    "high_risk_alerts": 4,
+    "medium_risk_alerts": 0,
+    "clusters_identified": 292,
+    "maneuvers_planned": 0,
+    "total_fuel_cost": 0.0,
+    "risk_reduction": -0.1392675864878005,
+    "efficiency_gain_percent": -100.0
+  },
+  "performance_metrics": {
+    "total_risk_before": 0.1392675864878005,
+    "total_risk_after": 0.278535172975601,
+    "fuel_efficiency": -100000000.0,
+    "maneuver_efficiency": -0.1392675864878005,
+    "secondary_risks_created": 0
+  }
+}

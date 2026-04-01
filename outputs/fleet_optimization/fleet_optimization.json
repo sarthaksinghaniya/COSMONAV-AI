@@ -1,0 +1,3540 @@
+{
+  "satellite_decisions": {
+    "0 ORS 5 SENSORSAT": {
+      "satellite": "0 ORS 5 SENSORSAT",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 DELTA 1 R/B(1)": {
+      "satellite": "0 DELTA 1 R/B(1)",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 DELTA 1 DEB": {
+      "satellite": "0 DELTA 1 DEB",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 M-4S R/B": {
+      "satellite": "0 M-4S R/B",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 DIAMANT R/B": {
+      "satellite": "0 DIAMANT R/B",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 YAOGAN-39 05C": {
+      "satellite": "0 YAOGAN-39 05C",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 YAOGAN-30 AC": {
+      "satellite": "0 YAOGAN-30 AC",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 YAOGAN-35 04B": {
+      "satellite": "0 YAOGAN-35 04B",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 RISAT-2BR1": {
+      "satellite": "0 RISAT-2BR1",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 SCOUT X-4 DEB": {
+      "satellite": "0 SCOUT X-4 DEB",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30210": {
+      "satellite": "0 STARLINK-30210",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34100": {
+      "satellite": "0 STARLINK-34100",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32701": {
+      "satellite": "0 STARLINK-32701",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34182": {
+      "satellite": "0 STARLINK-34182",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-6085": {
+      "satellite": "0 STARLINK-6085",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32668": {
+      "satellite": "0 STARLINK-32668",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34224": {
+      "satellite": "0 STARLINK-34224",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31416": {
+      "satellite": "0 STARLINK-31416",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-36465": {
+      "satellite": "0 STARLINK-36465",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35506": {
+      "satellite": "0 STARLINK-35506",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30468": {
+      "satellite": "0 STARLINK-30468",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31432": {
+      "satellite": "0 STARLINK-31432",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32941": {
+      "satellite": "0 STARLINK-32941",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34138": {
+      "satellite": "0 STARLINK-34138",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32919": {
+      "satellite": "0 STARLINK-32919",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32676": {
+      "satellite": "0 STARLINK-32676",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30603": {
+      "satellite": "0 STARLINK-30603",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-5831": {
+      "satellite": "0 STARLINK-5831",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34190": {
+      "satellite": "0 STARLINK-34190",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32559": {
+      "satellite": "0 STARLINK-32559",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-5622": {
+      "satellite": "0 STARLINK-5622",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-11381": {
+      "satellite": "0 STARLINK-11381",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-5902": {
+      "satellite": "0 STARLINK-5902",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-11565": {
+      "satellite": "0 STARLINK-11565",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-6132": {
+      "satellite": "0 STARLINK-6132",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-33969": {
+      "satellite": "0 STARLINK-33969",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30221": {
+      "satellite": "0 STARLINK-30221",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-36734": {
+      "satellite": "0 STARLINK-36734",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-11559": {
+      "satellite": "0 STARLINK-11559",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-36889": {
+      "satellite": "0 STARLINK-36889",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31931": {
+      "satellite": "0 STARLINK-31931",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-5771": {
+      "satellite": "0 STARLINK-5771",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-11695": {
+      "satellite": "0 STARLINK-11695",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-5844": {
+      "satellite": "0 STARLINK-5844",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34121": {
+      "satellite": "0 STARLINK-34121",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-5872": {
+      "satellite": "0 STARLINK-5872",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-11420": {
+      "satellite": "0 STARLINK-11420",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-6136": {
+      "satellite": "0 STARLINK-6136",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31885": {
+      "satellite": "0 STARLINK-31885",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-5702": {
+      "satellite": "0 STARLINK-5702",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31494": {
+      "satellite": "0 STARLINK-31494",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35986": {
+      "satellite": "0 STARLINK-35986",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-6320": {
+      "satellite": "0 STARLINK-6320",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34218": {
+      "satellite": "0 STARLINK-34218",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30841": {
+      "satellite": "0 STARLINK-30841",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35511": {
+      "satellite": "0 STARLINK-35511",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30957": {
+      "satellite": "0 STARLINK-30957",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35482": {
+      "satellite": "0 STARLINK-35482",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30586": {
+      "satellite": "0 STARLINK-30586",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35993": {
+      "satellite": "0 STARLINK-35993",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31325": {
+      "satellite": "0 STARLINK-31325",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-36468": {
+      "satellite": "0 STARLINK-36468",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31946": {
+      "satellite": "0 STARLINK-31946",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-36623": {
+      "satellite": "0 STARLINK-36623",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32526": {
+      "satellite": "0 STARLINK-32526",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-6291": {
+      "satellite": "0 STARLINK-6291",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-11512": {
+      "satellite": "0 STARLINK-11512",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-5834": {
+      "satellite": "0 STARLINK-5834",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-33535": {
+      "satellite": "0 STARLINK-33535",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-5778": {
+      "satellite": "0 STARLINK-5778",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32931": {
+      "satellite": "0 STARLINK-32931",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30573": {
+      "satellite": "0 STARLINK-30573",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-36037": {
+      "satellite": "0 STARLINK-36037",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31341": {
+      "satellite": "0 STARLINK-31341",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-5568": {
+      "satellite": "0 STARLINK-5568",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32396": {
+      "satellite": "0 STARLINK-32396",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-5741": {
+      "satellite": "0 STARLINK-5741",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31414": {
+      "satellite": "0 STARLINK-31414",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-36551": {
+      "satellite": "0 STARLINK-36551",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32337": {
+      "satellite": "0 STARLINK-32337",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30280": {
+      "satellite": "0 STARLINK-30280",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-36054": {
+      "satellite": "0 STARLINK-36054",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31884": {
+      "satellite": "0 STARLINK-31884",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30099": {
+      "satellite": "0 STARLINK-30099",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-33760": {
+      "satellite": "0 STARLINK-33760",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30492": {
+      "satellite": "0 STARLINK-30492",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34010": {
+      "satellite": "0 STARLINK-34010",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32748": {
+      "satellite": "0 STARLINK-32748",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31128": {
+      "satellite": "0 STARLINK-31128",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35674": {
+      "satellite": "0 STARLINK-35674",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31914": {
+      "satellite": "0 STARLINK-31914",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30408": {
+      "satellite": "0 STARLINK-30408",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35765": {
+      "satellite": "0 STARLINK-35765",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32740": {
+      "satellite": "0 STARLINK-32740",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31191": {
+      "satellite": "0 STARLINK-31191",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-6230": {
+      "satellite": "0 STARLINK-6230",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-6115": {
+      "satellite": "0 STARLINK-6115",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-6100": {
+      "satellite": "0 STARLINK-6100",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35781": {
+      "satellite": "0 STARLINK-35781",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-6286": {
+      "satellite": "0 STARLINK-6286",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-6271": {
+      "satellite": "0 STARLINK-6271",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30578": {
+      "satellite": "0 STARLINK-30578",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30541": {
+      "satellite": "0 STARLINK-30541",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30941": {
+      "satellite": "0 STARLINK-30941",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-33781": {
+      "satellite": "0 STARLINK-33781",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30381": {
+      "satellite": "0 STARLINK-30381",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31774": {
+      "satellite": "0 STARLINK-31774",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30137": {
+      "satellite": "0 STARLINK-30137",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32614": {
+      "satellite": "0 STARLINK-32614",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32283": {
+      "satellite": "0 STARLINK-32283",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30990": {
+      "satellite": "0 STARLINK-30990",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31582": {
+      "satellite": "0 STARLINK-31582",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31873": {
+      "satellite": "0 STARLINK-31873",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35437": {
+      "satellite": "0 STARLINK-35437",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34254": {
+      "satellite": "0 STARLINK-34254",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30161": {
+      "satellite": "0 STARLINK-30161",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-1300": {
+      "satellite": "0 STARLINK-1300",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 N-1 R/B": {
+      "satellite": "0 N-1 R/B",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 TIANQI 36": {
+      "satellite": "0 TIANQI 36",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 LEGION 4": {
+      "satellite": "0 LEGION 4",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 ORBCOMM FM 11": {
+      "satellite": "0 ORBCOMM FM 11",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 KORSAT-1": {
+      "satellite": "0 KORSAT-1",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 ECHO 1 DEB (METAL OBJ)": {
+      "satellite": "0 ECHO 1 DEB (METAL OBJ)",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 CHUANG XIN 20B (CX-20B)": {
+      "satellite": "0 CHUANG XIN 20B (CX-20B)",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 GEESAT 5-02": {
+      "satellite": "0 GEESAT 5-02",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 HULIANWANG DIGUI-89": {
+      "satellite": "0 HULIANWANG DIGUI-89",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 HULIANWANG DIGUI-103": {
+      "satellite": "0 HULIANWANG DIGUI-103",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 HULIANWANG DIGUI-152": {
+      "satellite": "0 HULIANWANG DIGUI-152",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 GEESAT 2-05": {
+      "satellite": "0 GEESAT 2-05",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 HULIANWANG DIGUI-137": {
+      "satellite": "0 HULIANWANG DIGUI-137",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 CZ-2F DEB": {
+      "satellite": "0 CZ-2F DEB",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 DELTA 2 R/B": {
+      "satellite": "0 DELTA 2 R/B",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 PROGRESS MS-33": {
+      "satellite": "0 PROGRESS MS-33",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 KUIPER-00249": {
+      "satellite": "0 KUIPER-00249",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 KUIPER-00046": {
+      "satellite": "0 KUIPER-00046",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 KUIPER-00079": {
+      "satellite": "0 KUIPER-00079",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 KUIPER-00100": {
+      "satellite": "0 KUIPER-00100",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 KUIPER-00033": {
+      "satellite": "0 KUIPER-00033",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 KUIPER-00027": {
+      "satellite": "0 KUIPER-00027",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 GLOBALSTAR M049": {
+      "satellite": "0 GLOBALSTAR M049",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 GLOBALSTAR M002": {
+      "satellite": "0 GLOBALSTAR M002",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 LVM3 CUS R/B": {
+      "satellite": "0 LVM3 CUS R/B",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-1738": {
+      "satellite": "0 STARLINK-1738",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-1820": {
+      "satellite": "0 STARLINK-1820",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-1727": {
+      "satellite": "0 STARLINK-1727",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-2114": {
+      "satellite": "0 STARLINK-2114",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-1453": {
+      "satellite": "0 STARLINK-1453",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-1433": {
+      "satellite": "0 STARLINK-1433",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-2093": {
+      "satellite": "0 STARLINK-2093",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-1337": {
+      "satellite": "0 STARLINK-1337",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-2055": {
+      "satellite": "0 STARLINK-2055",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-1551": {
+      "satellite": "0 STARLINK-1551",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-2298": {
+      "satellite": "0 STARLINK-2298",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-1526": {
+      "satellite": "0 STARLINK-1526",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-11404": {
+      "satellite": "0 STARLINK-11404",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-1227": {
+      "satellite": "0 STARLINK-1227",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-11470": {
+      "satellite": "0 STARLINK-11470",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-11395": {
+      "satellite": "0 STARLINK-11395",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34661": {
+      "satellite": "0 STARLINK-34661",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32897": {
+      "satellite": "0 STARLINK-32897",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35116": {
+      "satellite": "0 STARLINK-35116",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-36836": {
+      "satellite": "0 STARLINK-36836",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35550": {
+      "satellite": "0 STARLINK-35550",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-11085": {
+      "satellite": "0 STARLINK-11085",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-2050": {
+      "satellite": "0 STARLINK-2050",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35737": {
+      "satellite": "0 STARLINK-35737",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34790": {
+      "satellite": "0 STARLINK-34790",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34829": {
+      "satellite": "0 STARLINK-34829",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34284": {
+      "satellite": "0 STARLINK-34284",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-11266": {
+      "satellite": "0 STARLINK-11266",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-2322": {
+      "satellite": "0 STARLINK-2322",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35523": {
+      "satellite": "0 STARLINK-35523",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34236": {
+      "satellite": "0 STARLINK-34236",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31449": {
+      "satellite": "0 STARLINK-31449",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35408": {
+      "satellite": "0 STARLINK-35408",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-11205": {
+      "satellite": "0 STARLINK-11205",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-36915": {
+      "satellite": "0 STARLINK-36915",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34332": {
+      "satellite": "0 STARLINK-34332",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-37052": {
+      "satellite": "0 STARLINK-37052",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34311": {
+      "satellite": "0 STARLINK-34311",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-3680": {
+      "satellite": "0 STARLINK-3680",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35270": {
+      "satellite": "0 STARLINK-35270",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-2329": {
+      "satellite": "0 STARLINK-2329",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35089": {
+      "satellite": "0 STARLINK-35089",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-2598": {
+      "satellite": "0 STARLINK-2598",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35350": {
+      "satellite": "0 STARLINK-35350",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-11165": {
+      "satellite": "0 STARLINK-11165",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34850": {
+      "satellite": "0 STARLINK-34850",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30936": {
+      "satellite": "0 STARLINK-30936",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34807": {
+      "satellite": "0 STARLINK-34807",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-2483": {
+      "satellite": "0 STARLINK-2483",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34517": {
+      "satellite": "0 STARLINK-34517",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 TBA - TO BE ASSIGNED": {
+      "satellite": "0 TBA - TO BE ASSIGNED",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-33614": {
+      "satellite": "0 STARLINK-33614",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-33581": {
+      "satellite": "0 STARLINK-33581",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32846": {
+      "satellite": "0 STARLINK-32846",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-11335": {
+      "satellite": "0 STARLINK-11335",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-37132": {
+      "satellite": "0 STARLINK-37132",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-11276": {
+      "satellite": "0 STARLINK-11276",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35231": {
+      "satellite": "0 STARLINK-35231",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-11256": {
+      "satellite": "0 STARLINK-11256",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35918": {
+      "satellite": "0 STARLINK-35918",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31980": {
+      "satellite": "0 STARLINK-31980",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35160": {
+      "satellite": "0 STARLINK-35160",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32163": {
+      "satellite": "0 STARLINK-32163",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35071": {
+      "satellite": "0 STARLINK-35071",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32400": {
+      "satellite": "0 STARLINK-32400",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31346": {
+      "satellite": "0 STARLINK-31346",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34531": {
+      "satellite": "0 STARLINK-34531",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30913": {
+      "satellite": "0 STARLINK-30913",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-33837": {
+      "satellite": "0 STARLINK-33837",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30455": {
+      "satellite": "0 STARLINK-30455",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-11374": {
+      "satellite": "0 STARLINK-11374",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-1012": {
+      "satellite": "0 STARLINK-1012",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31967": {
+      "satellite": "0 STARLINK-31967",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34308": {
+      "satellite": "0 STARLINK-34308",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32029": {
+      "satellite": "0 STARLINK-32029",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35381": {
+      "satellite": "0 STARLINK-35381",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32123": {
+      "satellite": "0 STARLINK-32123",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-2534": {
+      "satellite": "0 STARLINK-2534",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34250": {
+      "satellite": "0 STARLINK-34250",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31680": {
+      "satellite": "0 STARLINK-31680",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34591": {
+      "satellite": "0 STARLINK-34591",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-11360": {
+      "satellite": "0 STARLINK-11360",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-2228": {
+      "satellite": "0 STARLINK-2228",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-33929": {
+      "satellite": "0 STARLINK-33929",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-31521": {
+      "satellite": "0 STARLINK-31521",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-30353": {
+      "satellite": "0 STARLINK-30353",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34770": {
+      "satellite": "0 STARLINK-34770",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34891": {
+      "satellite": "0 STARLINK-34891",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34382": {
+      "satellite": "0 STARLINK-34382",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-33792": {
+      "satellite": "0 STARLINK-33792",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-11341": {
+      "satellite": "0 STARLINK-11341",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32376": {
+      "satellite": "0 STARLINK-32376",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34518": {
+      "satellite": "0 STARLINK-34518",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-34375": {
+      "satellite": "0 STARLINK-34375",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32306": {
+      "satellite": "0 STARLINK-32306",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-32443": {
+      "satellite": "0 STARLINK-32443",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-35276": {
+      "satellite": "0 STARLINK-35276",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-5190": {
+      "satellite": "0 STARLINK-5190",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-3276": {
+      "satellite": "0 STARLINK-3276",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-5222": {
+      "satellite": "0 STARLINK-5222",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-5029": {
+      "satellite": "0 STARLINK-5029",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-3131": {
+      "satellite": "0 STARLINK-3131",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4056": {
+      "satellite": "0 STARLINK-4056",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-5233": {
+      "satellite": "0 STARLINK-5233",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-3372": {
+      "satellite": "0 STARLINK-3372",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-3567": {
+      "satellite": "0 STARLINK-3567",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-3526": {
+      "satellite": "0 STARLINK-3526",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-5231": {
+      "satellite": "0 STARLINK-5231",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-5242": {
+      "satellite": "0 STARLINK-5242",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4755": {
+      "satellite": "0 STARLINK-4755",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4608": {
+      "satellite": "0 STARLINK-4608",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-5001": {
+      "satellite": "0 STARLINK-5001",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4191": {
+      "satellite": "0 STARLINK-4191",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-3785": {
+      "satellite": "0 STARLINK-3785",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-3814": {
+      "satellite": "0 STARLINK-3814",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4201": {
+      "satellite": "0 STARLINK-4201",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4002": {
+      "satellite": "0 STARLINK-4002",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-3290": {
+      "satellite": "0 STARLINK-3290",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-5009": {
+      "satellite": "0 STARLINK-5009",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4100": {
+      "satellite": "0 STARLINK-4100",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4299": {
+      "satellite": "0 STARLINK-4299",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4280": {
+      "satellite": "0 STARLINK-4280",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4115": {
+      "satellite": "0 STARLINK-4115",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4208": {
+      "satellite": "0 STARLINK-4208",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4095": {
+      "satellite": "0 STARLINK-4095",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4088": {
+      "satellite": "0 STARLINK-4088",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4218": {
+      "satellite": "0 STARLINK-4218",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-5155": {
+      "satellite": "0 STARLINK-5155",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-3778": {
+      "satellite": "0 STARLINK-3778",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4217": {
+      "satellite": "0 STARLINK-4217",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-3239": {
+      "satellite": "0 STARLINK-3239",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-3709": {
+      "satellite": "0 STARLINK-3709",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4493": {
+      "satellite": "0 STARLINK-4493",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4032": {
+      "satellite": "0 STARLINK-4032",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4167": {
+      "satellite": "0 STARLINK-4167",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4268": {
+      "satellite": "0 STARLINK-4268",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4762": {
+      "satellite": "0 STARLINK-4762",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 STARLINK-4510": {
+      "satellite": "0 STARLINK-4510",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 HJS-6C": {
+      "satellite": "0 HJS-6C",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 SL-8 DEB": {
+      "satellite": "0 SL-8 DEB",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 CZ-2D R/B": {
+      "satellite": "0 CZ-2D R/B",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 COSMOS 249 DEB": {
+      "satellite": "0 COSMOS 249 DEB",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 COSMOS 375 DEB": {
+      "satellite": "0 COSMOS 375 DEB",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 USA 74": {
+      "satellite": "0 USA 74",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 COSMOS 249 DEB *": {
+      "satellite": "0 COSMOS 249 DEB *",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 CZ-4C DEB": {
+      "satellite": "0 CZ-4C DEB",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 CZ-4C R/B": {
+      "satellite": "0 CZ-4C R/B",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 UNISAT 2": {
+      "satellite": "0 UNISAT 2",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 SNAP-3 EDDIE": {
+      "satellite": "0 SNAP-3 EDDIE",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 COSMOS 1372": {
+      "satellite": "0 COSMOS 1372",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 COSMOS 1818 COOLANT": {
+      "satellite": "0 COSMOS 1818 COOLANT",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    },
+    "0 COSMOS 1867 COOLANT": {
+      "satellite": "0 COSMOS 1867 COOLANT",
+      "action": "HOLD",
+      "delta_v": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fuel_cost": 0.0,
+      "risk_reduction": 0.0,
+      "secondary_risk": 0
+    }
+  },
+  "total_risk_before": 0.1392675864878005,
+  "total_risk_after": 0.278535172975601,
+  "total_fuel_cost": 0.0,
+  "efficiency_gain_percent": -100.0,
+  "clusters_processed": 292,
+  "maneuvers_planned": 0,
+  "secondary_risks_created": 0,
+  "timestamp": "2026-04-01T20:11:03.980750"
+}
