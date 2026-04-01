@@ -319,9 +319,9 @@ python update_readme.py
 
 ## 📞 Contact & Support
 
-**Project Lead:** ISRO Space Situational Awareness Division
-**Technical Support:** systems@isro.gov.in
-**Emergency Contact:** +91-XXX-XXX-XXXX (24/7 SSA Operations)
+**Project Lead:** Sarthak Singhaniya
+**Technical Support:** teamtechneekx.netlify.app
+**Emergency Contact:** +91-6387860126 (24/7 SSA Operations)
 
 ### Documentation Links
 - [System Architecture](docs/architecture.md)
