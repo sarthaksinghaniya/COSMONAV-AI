@@ -32,6 +32,35 @@ This comprehensive Space Situational Awareness (SSA) system processes raw satell
 
 ---
 
+## 🤖 Autonomous Decision System
+
+**Advanced autonomous collision avoidance and maneuver planning system**
+
+### Key Features
+- **RTN Frame Maneuver Planning** - Radial, Transverse, Normal coordinate optimization
+- **Autonomous Decision Engine** - EXECUTE/MONITOR/IGNORE recommendations
+- **Fuel Estimation** - Tsiolkovsky rocket equation calculations
+- **Anomaly Detection** - High velocity, fuel requirement, imminent collision flags
+- **Confidence Scoring** - Decision certainty metrics
+- **Comprehensive Logging** - Full system activity tracking
+
+### Capabilities
+- **Maneuver Planning:** Generates optimal delta-V vectors for collision avoidance
+- **Decision Making:** Autonomous risk assessment and action recommendations
+- **Fuel Optimization:** Minimizes propellant usage while ensuring safety
+- **Real-time Processing:** Efficient algorithms for operational use
+- **Visualization:** 3D orbital plots and statistical analysis
+
+### Latest Results (Auto-updated)
+- **Decisions Made:** 22 autonomous collision avoidance decisions
+- **Execute Maneuver:** 6 (27.3%) - Immediate action required
+- **Monitor:** 8 (36.4%) - Enhanced tracking needed
+- **Total Fuel Required:** 5,205 kg across all maneuvers
+- **Processing Time:** 1.29 seconds
+- **Efficiency Gain:** 26.2x vs brute force approach
+
+---
+
 ## 📊 Current Status
 
 ### ✅ **COMPLETED PHASES**
@@ -79,8 +108,7 @@ ISRO_PROJECT/
 ├── 📄 convert_to_state_vectors.py     # SGP4 propagation module
 ├── 📄 process_satellites.py           # Data cleaning pipeline
 ├── 📄 generate_stats.py              # Statistical analysis tools
-├── � update_readme.py               # README auto-updater script
-├── �📁 dataset/
+├── � update_readme.py               # README auto-updater script├── 📄 autonomous_decision_system.py  # Autonomous maneuver planning & decisions├── �📁 dataset/
 │   ├── 📄 clean_satellites.json       # Processed orbital elements (500 objects)
 │   ├── 📄 state_vectors.json          # SGP4 state vectors (300 objects)
 │   ├── 📄 collision_alerts.json       # All conjunction alerts (60 entries)
@@ -89,8 +117,14 @@ ISRO_PROJECT/
 │   ├── 📄 COLLISION_REPORT.md         # Collision analysis summary
 │   ├── 📄 PROCESSING_SUMMARY.md       # Data cleaning documentation
 │   └── 📄 STATE_VECTORS_REPORT.md     # SGP4 validation report
-└── 📄 README.md                       # This file
-```
+└── 📄 README.md                       # This file├── 📁 outputs/                        # Autonomous system outputs
+│   ├── 📄 maneuver_plan.json          # Avoidance maneuver plans
+│   ├── 📄 decision_log.json           # Autonomous decisions
+│   ├── 📄 final_report.md             # Comprehensive analysis
+│   ├── 📄 performance.json            # System metrics
+│   ├── 📁 plots/                      # Visualizations
+│   ├── 📁 logs/                       # System logs
+│   └── 📁 checkpoints/                # Processing states```
 
 ---
 
@@ -115,6 +149,19 @@ python collision_detection.py
 
 # 4. Generate statistics (optional)
 python generate_stats.py
+```
+
+### Run Autonomous Decision System
+```bash
+# Complete autonomous collision avoidance system
+python autonomous_decision_system.py
+
+# Outputs saved to 'outputs/' folder including:
+# - maneuver_plan.json (avoidance maneuvers)
+# - decision_log.json (autonomous decisions)
+# - final_report.md (comprehensive analysis)
+# - plots/ (visualizations)
+# - logs/ (system logging)
 ```
 
 ### Individual Components

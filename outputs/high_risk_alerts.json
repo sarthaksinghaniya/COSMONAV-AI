@@ -1,0 +1,98 @@
+[
+  {
+    "object": "0 STARLINK-32400",
+    "target_object": "0 STARLINK-35071",
+    "decision": "EXECUTE MANEUVER",
+    "confidence_score": 0.95,
+    "priority_score": 0.04706780470065212,
+    "risk_level": "HIGH",
+    "distance_km": 4.131,
+    "tca_seconds": 174.0,
+    "fuel_required": 235.7338777484893,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 1875.967419343645
+  },
+  {
+    "object": "0 STARLINK-35071",
+    "target_object": "0 STARLINK-32400",
+    "decision": "EXECUTE MANEUVER",
+    "confidence_score": 0.95,
+    "priority_score": 0.04973354574330557,
+    "risk_level": "HIGH",
+    "distance_km": 4.131,
+    "tca_seconds": 174.0,
+    "fuel_required": 249.08494600107966,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 2028.4868615763692
+  },
+  {
+    "object": "0 STARLINK-34138",
+    "target_object": "0 STARLINK-5872",
+    "decision": "EXECUTE MANEUVER",
+    "confidence_score": 0.95,
+    "priority_score": 0.09115859550227705,
+    "risk_level": "HIGH",
+    "distance_km": 6.584,
+    "tca_seconds": 221.9,
+    "fuel_required": 224.62236815936086,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 1754.7962711308182
+  },
+  {
+    "object": "0 STARLINK-5872",
+    "target_object": "0 STARLINK-34138",
+    "decision": "EXECUTE MANEUVER",
+    "confidence_score": 0.95,
+    "priority_score": 0.09529652222895767,
+    "risk_level": "HIGH",
+    "distance_km": 6.584,
+    "tca_seconds": 221.9,
+    "fuel_required": 234.81856409124856,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 1865.7951148564048
+  },
+  {
+    "object": "0 STARLINK-1300",
+    "target_object": "0 STARLINK-30161",
+    "decision": "EXECUTE MANEUVER",
+    "confidence_score": 0.95,
+    "priority_score": 0.5392358651311611,
+    "risk_level": "HIGH",
+    "distance_km": 2.802,
+    "tca_seconds": 2725.9,
+    "fuel_required": 254.157669771991,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 2088.5743297200156
+  },
+  {
+    "object": "0 STARLINK-30161",
+    "target_object": "0 STARLINK-1300",
+    "decision": "EXECUTE MANEUVER",
+    "confidence_score": 0.95,
+    "priority_score": 0.5680161017083186,
+    "risk_level": "HIGH",
+    "distance_km": 2.802,
+    "tca_seconds": 2725.9,
+    "fuel_required": 267.7226389013307,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 2255.5567198659032
+  }
+]

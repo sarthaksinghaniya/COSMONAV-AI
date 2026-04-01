@@ -1,0 +1,42 @@
+2026-04-01 16:36:33 - INFO - === ISRO SSA Autonomous Decision System Started ===
+2026-04-01 16:36:33 - INFO - Timestamp: 2026-04-01 16:36:33
+2026-04-01 16:36:33 - INFO - === Starting ISRO Autonomous SSA Decision System ===
+2026-04-01 16:36:33 - INFO - Step 1: Loading data...
+2026-04-01 16:36:33 - INFO - Loaded 300 state vectors
+2026-04-01 16:36:33 - INFO - Loaded 60 collision alerts
+2026-04-01 16:36:33 - INFO - Filtered 22 HIGH/MEDIUM risk alerts
+2026-04-01 16:36:33 - INFO - \u2713 Step 1 completed successfully
+2026-04-01 16:36:33 - INFO - Step 2: Generating maneuver plans...
+2026-04-01 16:36:33 - INFO - Planning maneuver 1/22: 0 STARLINK-34138 \u2194 0 STARLINK-5872
+2026-04-01 16:36:33 - INFO - Planning maneuver 2/22: 0 STARLINK-5872 \u2194 0 STARLINK-34138
+2026-04-01 16:36:33 - INFO - Planning maneuver 3/22: 0 STARLINK-35986 \u2194 0 STARLINK-36054
+2026-04-01 16:36:33 - INFO - Planning maneuver 4/22: 0 STARLINK-6320 \u2194 0 STARLINK-4493
+2026-04-01 16:36:33 - INFO - Planning maneuver 5/22: 0 STARLINK-6320 \u2194 0 STARLINK-32163
+2026-04-01 16:36:33 - INFO - Planning maneuver 6/22: 0 STARLINK-35993 \u2194 0 STARLINK-35408
+2026-04-01 16:36:33 - INFO - Planning maneuver 7/22: 0 STARLINK-36054 \u2194 0 STARLINK-35986
+2026-04-01 16:36:33 - INFO - Planning maneuver 8/22: 0 STARLINK-31884 \u2194 0 STARLINK-31128
+2026-04-01 16:36:33 - INFO - Planning maneuver 9/22: 0 STARLINK-31128 \u2194 0 STARLINK-31884
+2026-04-01 16:36:33 - INFO - Planning maneuver 10/22: 0 STARLINK-30161 \u2194 0 STARLINK-1300
+2026-04-01 16:36:33 - INFO - Planning maneuver 11/22: 0 LEGION 4 \u2194 0 STARLINK-5233
+2026-04-01 16:36:33 - INFO - Planning maneuver 12/22: 0 DELTA 2 R/B \u2194 0 STARLINK-37132
+2026-04-01 16:36:33 - INFO - Planning maneuver 13/22: 0 STARLINK-35408 \u2194 0 STARLINK-35993
+2026-04-01 16:36:33 - INFO - Planning maneuver 14/22: 0 STARLINK-37132 \u2194 0 DELTA 2 R/B
+2026-04-01 16:36:33 - INFO - Planning maneuver 15/22: 0 STARLINK-32163 \u2194 0 STARLINK-6320
+2026-04-01 16:36:33 - INFO - Planning maneuver 16/22: 0 STARLINK-35071 \u2194 0 STARLINK-32400
+2026-04-01 16:36:33 - INFO - Planning maneuver 17/22: 0 STARLINK-32400 \u2194 0 STARLINK-35071
+2026-04-01 16:36:33 - INFO - Planning maneuver 18/22: 0 STARLINK-30353 \u2194 0 STARLINK-35276
+2026-04-01 16:36:33 - INFO - Planning maneuver 19/22: 0 STARLINK-1300 \u2194 0 STARLINK-30161
+2026-04-01 16:36:33 - INFO - Planning maneuver 20/22: 0 STARLINK-35276 \u2194 0 STARLINK-30353
+2026-04-01 16:36:33 - INFO - Planning maneuver 21/22: 0 STARLINK-5233 \u2194 0 LEGION 4
+2026-04-01 16:36:33 - INFO - Planning maneuver 22/22: 0 STARLINK-4493 \u2194 0 STARLINK-6320
+2026-04-01 16:36:33 - INFO - \u2713 Generated 22 maneuver plans
+2026-04-01 16:36:33 - INFO - Step 4: Making autonomous decisions...
+2026-04-01 16:36:33 - INFO - \u2713 Made 22 autonomous decisions
+2026-04-01 16:36:33 - INFO - Step 8: Creating visualizations...
+2026-04-01 16:36:35 - INFO - \u2713 Generated 4 visualization plots
+2026-04-01 16:36:35 - INFO - Step 9: Generating performance metrics...
+2026-04-01 16:36:35 - INFO - \u2713 Performance metrics saved (runtime: 1.29s)
+2026-04-01 16:36:35 - INFO - Step 10: Generating final report...
+2026-04-01 16:36:35 - INFO - \u2713 Final comprehensive report generated
+2026-04-01 16:36:35 - INFO - === ISRO Autonomous SSA System Completed Successfully ===
+2026-04-01 16:36:35 - INFO - Total runtime: 1.29 seconds

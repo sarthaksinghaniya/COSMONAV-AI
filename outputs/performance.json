@@ -1,0 +1,12 @@
+{
+  "runtime_seconds": 1.2897913455963135,
+  "memory_used_mb": 47.31640625,
+  "objects_processed": 300,
+  "alerts_analyzed": 60,
+  "maneuvers_planned": 22,
+  "decisions_made": 22,
+  "brute_force_pairs": 44850,
+  "kd_tree_efficiency": 26.21067697870284,
+  "processing_rate": 46.51915226819886,
+  "timestamp": "2026-04-01T16:36:35.135296"
+}

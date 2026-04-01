@@ -1,0 +1,354 @@
+[
+  {
+    "object": "0 STARLINK-32400",
+    "target_object": "0 STARLINK-35071",
+    "decision": "EXECUTE MANEUVER",
+    "confidence_score": 0.95,
+    "priority_score": 0.04706780470065212,
+    "risk_level": "HIGH",
+    "distance_km": 4.131,
+    "tca_seconds": 174.0,
+    "fuel_required": 235.7338777484893,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 1875.967419343645
+  },
+  {
+    "object": "0 STARLINK-35071",
+    "target_object": "0 STARLINK-32400",
+    "decision": "EXECUTE MANEUVER",
+    "confidence_score": 0.95,
+    "priority_score": 0.04973354574330557,
+    "risk_level": "HIGH",
+    "distance_km": 4.131,
+    "tca_seconds": 174.0,
+    "fuel_required": 249.08494600107966,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 2028.4868615763692
+  },
+  {
+    "object": "0 STARLINK-30353",
+    "target_object": "0 STARLINK-35276",
+    "decision": "MONITOR",
+    "confidence_score": 0.6,
+    "priority_score": 0.08390795368796111,
+    "risk_level": "MEDIUM",
+    "distance_km": 16.1,
+    "tca_seconds": 86.0,
+    "fuel_required": 218.1631036231836,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 1686.585647529073
+  },
+  {
+    "object": "0 STARLINK-35276",
+    "target_object": "0 STARLINK-30353",
+    "decision": "MONITOR",
+    "confidence_score": 0.6,
+    "priority_score": 0.08971167132179217,
+    "risk_level": "MEDIUM",
+    "distance_km": 16.1,
+    "tca_seconds": 86.0,
+    "fuel_required": 233.25293713596113,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 1848.4766971147144
+  },
+  {
+    "object": "0 STARLINK-34138",
+    "target_object": "0 STARLINK-5872",
+    "decision": "EXECUTE MANEUVER",
+    "confidence_score": 0.95,
+    "priority_score": 0.09115859550227705,
+    "risk_level": "HIGH",
+    "distance_km": 6.584,
+    "tca_seconds": 221.9,
+    "fuel_required": 224.62236815936086,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 1754.7962711308182
+  },
+  {
+    "object": "0 STARLINK-5872",
+    "target_object": "0 STARLINK-34138",
+    "decision": "EXECUTE MANEUVER",
+    "confidence_score": 0.95,
+    "priority_score": 0.09529652222895767,
+    "risk_level": "HIGH",
+    "distance_km": 6.584,
+    "tca_seconds": 221.9,
+    "fuel_required": 234.81856409124856,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 1865.7951148564048
+  },
+  {
+    "object": "0 STARLINK-6320",
+    "target_object": "0 STARLINK-32163",
+    "decision": "MONITOR",
+    "confidence_score": 0.6,
+    "priority_score": 0.16489868522106507,
+    "risk_level": "MEDIUM",
+    "distance_km": 11.781,
+    "tca_seconds": 230.3,
+    "fuel_required": 218.79812689406026,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 1693.2219084092246
+  },
+  {
+    "object": "0 STARLINK-32163",
+    "target_object": "0 STARLINK-6320",
+    "decision": "MONITOR",
+    "confidence_score": 0.6,
+    "priority_score": 0.20770387499273438,
+    "risk_level": "MEDIUM",
+    "distance_km": 11.781,
+    "tca_seconds": 230.3,
+    "fuel_required": 275.59479165115204,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 2356.993165557164
+  },
+  {
+    "object": "0 STARLINK-36054",
+    "target_object": "0 STARLINK-35986",
+    "decision": "MONITOR",
+    "confidence_score": 0.6,
+    "priority_score": 0.342960587465334,
+    "risk_level": "MEDIUM",
+    "distance_km": 12.385,
+    "tca_seconds": 383.7,
+    "fuel_required": 259.8118199292132,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 2157.027777003991
+  },
+  {
+    "object": "0 STARLINK-35986",
+    "target_object": "0 STARLINK-36054",
+    "decision": "MONITOR",
+    "confidence_score": 0.6,
+    "priority_score": 0.3595791327188661,
+    "risk_level": "MEDIUM",
+    "distance_km": 12.385,
+    "tca_seconds": 383.7,
+    "fuel_required": 272.4012971015212,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 2315.4209530353896
+  },
+  {
+    "object": "0 LEGION 4",
+    "target_object": "0 STARLINK-5233",
+    "decision": "MONITOR",
+    "confidence_score": 0.6,
+    "priority_score": 0.41577893245060754,
+    "risk_level": "MEDIUM",
+    "distance_km": 17.341,
+    "tca_seconds": 340.4,
+    "fuel_required": 253.57199700508508,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 2081.5739193821814
+  },
+  {
+    "object": "0 STARLINK-5233",
+    "target_object": "0 LEGION 4",
+    "decision": "MONITOR",
+    "confidence_score": 0.6,
+    "priority_score": 0.41820249667085835,
+    "risk_level": "MEDIUM",
+    "distance_km": 17.341,
+    "tca_seconds": 340.4,
+    "fuel_required": 255.05006135908422,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 2099.273008762432
+  },
+  {
+    "object": "0 STARLINK-35993",
+    "target_object": "0 STARLINK-35408",
+    "decision": "IGNORE",
+    "confidence_score": 0.4,
+    "priority_score": 0.48587906334428677,
+    "risk_level": "MEDIUM",
+    "distance_km": 28.738,
+    "tca_seconds": 270.7,
+    "fuel_required": 224.8463749703842,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 1757.1904202227802
+  },
+  {
+    "object": "0 STARLINK-35408",
+    "target_object": "0 STARLINK-35993",
+    "decision": "IGNORE",
+    "confidence_score": 0.4,
+    "priority_score": 0.5219179433524305,
+    "risk_level": "MEDIUM",
+    "distance_km": 28.738,
+    "tca_seconds": 270.7,
+    "fuel_required": 241.52379974363885,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 1941.1414733502997
+  },
+  {
+    "object": "0 STARLINK-1300",
+    "target_object": "0 STARLINK-30161",
+    "decision": "EXECUTE MANEUVER",
+    "confidence_score": 0.95,
+    "priority_score": 0.5392358651311611,
+    "risk_level": "HIGH",
+    "distance_km": 2.802,
+    "tca_seconds": 2725.9,
+    "fuel_required": 254.157669771991,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 2088.5743297200156
+  },
+  {
+    "object": "0 STARLINK-30161",
+    "target_object": "0 STARLINK-1300",
+    "decision": "EXECUTE MANEUVER",
+    "confidence_score": 0.95,
+    "priority_score": 0.5680161017083186,
+    "risk_level": "HIGH",
+    "distance_km": 2.802,
+    "tca_seconds": 2725.9,
+    "fuel_required": 267.7226389013307,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 2255.5567198659032
+  },
+  {
+    "object": "0 STARLINK-6320",
+    "target_object": "0 STARLINK-4493",
+    "decision": "IGNORE",
+    "confidence_score": 0.4,
+    "priority_score": 1.9383755999864147,
+    "risk_level": "MEDIUM",
+    "distance_km": 48.279,
+    "tca_seconds": 660.6,
+    "fuel_required": 218.79812689406026,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 1693.2219084092246
+  },
+  {
+    "object": "0 STARLINK-4493",
+    "target_object": "0 STARLINK-6320",
+    "decision": "IGNORE",
+    "confidence_score": 0.4,
+    "priority_score": 1.986762664038121,
+    "risk_level": "MEDIUM",
+    "distance_km": 48.279,
+    "tca_seconds": 660.6,
+    "fuel_required": 224.25991612649307,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 1750.9265634739193
+  },
+  {
+    "object": "0 STARLINK-31128",
+    "target_object": "0 STARLINK-31884",
+    "decision": "IGNORE",
+    "confidence_score": 0.4,
+    "priority_score": 2.9642710928875724,
+    "risk_level": "MEDIUM",
+    "distance_km": 32.487,
+    "tca_seconds": 1304.7,
+    "fuel_required": 251.7677790443405,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 2060.1126273646387
+  },
+  {
+    "object": "0 STARLINK-31884",
+    "target_object": "0 STARLINK-31128",
+    "decision": "IGNORE",
+    "confidence_score": 0.4,
+    "priority_score": 3.01186643221451,
+    "risk_level": "MEDIUM",
+    "distance_km": 32.487,
+    "tca_seconds": 1304.7,
+    "fuel_required": 255.81024766468923,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 2108.417497144833
+  },
+  {
+    "object": "0 DELTA 2 R/B",
+    "target_object": "0 STARLINK-37132",
+    "decision": "IGNORE",
+    "confidence_score": 0.4,
+    "priority_score": 4.060354378153256,
+    "risk_level": "MEDIUM",
+    "distance_km": 45.738,
+    "tca_seconds": 1930.3,
+    "fuel_required": 165.5634468529821,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 1183.1553968163926
+  },
+  {
+    "object": "0 STARLINK-37132",
+    "target_object": "0 DELTA 2 R/B",
+    "decision": "IGNORE",
+    "confidence_score": 0.4,
+    "priority_score": 4.167266350085193,
+    "risk_level": "MEDIUM",
+    "distance_km": 45.738,
+    "tca_seconds": 1930.3,
+    "fuel_required": 169.92284825847014,
+    "anomaly_flags": [
+      "high_fuel_requirement"
+    ],
+    "maneuver_type": "prograde",
+    "delta_v_magnitude": 1221.756620652646
+  }
+]
