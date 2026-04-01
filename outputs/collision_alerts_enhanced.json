@@ -1,0 +1,2222 @@
+[
+  {
+    "object_1": "0 YAOGAN-30 AC",
+    "object_2": "0 STARLINK-4100",
+    "norad_1": 48863,
+    "norad_2": 53144,
+    "distance_km": 99.881,
+    "tca_seconds": 242.5,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 10.025,
+    "current_separation_km": 2433.035,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 98.77107149904003,
+      "std_distance_km": 0.6898888892494812,
+      "min_distance_km": 96.6943020037786,
+      "max_distance_km": 101.06671768196416,
+      "percentile_5": 97.70004162739409,
+      "percentile_50": 98.73492259735923,
+      "percentile_95": 99.92946272929828
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-34100",
+    "object_2": "0 STARLINK-34850",
+    "norad_1": 64385,
+    "norad_2": 65460,
+    "distance_km": 73.076,
+    "tca_seconds": 752.3,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 5.512,
+    "current_separation_km": 4147.5,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 72.79208747444389,
+      "std_distance_km": 0.6899218334470882,
+      "min_distance_km": 70.71390166791092,
+      "max_distance_km": 75.08864792947102,
+      "percentile_5": 71.71987491616387,
+      "percentile_50": 72.75642999817185,
+      "percentile_95": 73.94884705378526
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-32941",
+    "object_2": "0 STARLINK-4280",
+    "norad_1": 63119,
+    "norad_2": 53178,
+    "distance_km": 60.961,
+    "tca_seconds": 100.1,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 1.612,
+    "current_separation_km": 172.509,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 60.66908267340058,
+      "std_distance_km": 0.6899436594989323,
+      "min_distance_km": 58.58982464569071,
+      "max_distance_km": 62.9663090296349,
+      "percentile_5": 59.59597477261495,
+      "percentile_50": 60.63295702489152,
+      "percentile_95": 61.82460185778036
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-34138",
+    "object_2": "0 STARLINK-5872",
+    "norad_1": 63971,
+    "norad_2": 57232,
+    "distance_km": 6.584,
+    "tca_seconds": 221.9,
+    "risk_level": "HIGH",
+    "collision_probability": 5.055475109409701e-13,
+    "relative_velocity_kms": 7.775,
+    "current_separation_km": 1725.2,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 1.8795288165390966e-12,
+      "tail_probability": 1.0024480401401584e-13,
+      "volume_based": 4.241642321076786e-14,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 5.329031132297926,
+      "std_distance_km": 0.6859040241324799,
+      "min_distance_km": 3.192537668008024,
+      "max_distance_km": 7.631937666057437,
+      "percentile_5": 4.286317753824339,
+      "percentile_50": 5.311399914239226,
+      "percentile_95": 6.467517916511932
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-5844",
+    "object_2": "0 STARLINK-36054",
+    "norad_1": 57068,
+    "norad_2": 66812,
+    "distance_km": 76.141,
+    "tca_seconds": 469.5,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 9.143,
+    "current_separation_km": 4293.239,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 74.52398117844699,
+      "std_distance_km": 0.6899191156548182,
+      "min_distance_km": 72.44592028420628,
+      "max_distance_km": 76.82046259223323,
+      "percentile_5": 73.45187292640584,
+      "percentile_50": 74.48817592299417,
+      "percentile_95": 75.68088497084666
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-5872",
+    "object_2": "0 STARLINK-34138",
+    "norad_1": 57232,
+    "norad_2": 63971,
+    "distance_km": 6.584,
+    "tca_seconds": 221.9,
+    "risk_level": "HIGH",
+    "collision_probability": 5.055475109409701e-13,
+    "relative_velocity_kms": 7.775,
+    "current_separation_km": 1725.2,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 1.8795288165390966e-12,
+      "tail_probability": 1.0024480401401584e-13,
+      "volume_based": 4.241642321076786e-14,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 5.329031132297926,
+      "std_distance_km": 0.6859040241324799,
+      "min_distance_km": 3.192537668008024,
+      "max_distance_km": 7.631937666057437,
+      "percentile_5": 4.286317753824339,
+      "percentile_50": 5.311399914239226,
+      "percentile_95": 6.467517916511932
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-31885",
+    "object_2": "0 STARLINK-5242",
+    "norad_1": 59660,
+    "norad_2": 54173,
+    "distance_km": 73.037,
+    "tca_seconds": 262.3,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 10.826,
+    "current_separation_km": 2840.449,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 72.79208747444389,
+      "std_distance_km": 0.6899218334470882,
+      "min_distance_km": 70.71390166791092,
+      "max_distance_km": 75.08864792947102,
+      "percentile_5": 71.71987491616387,
+      "percentile_50": 72.75642999817185,
+      "percentile_95": 73.94884705378526
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-35986",
+    "object_2": "0 STARLINK-36054",
+    "norad_1": 66853,
+    "norad_2": 66812,
+    "distance_km": 12.385,
+    "tca_seconds": 383.7,
+    "risk_level": "MEDIUM",
+    "collision_probability": 3.7677453654047017e-65,
+    "relative_velocity_kms": 9.546,
+    "current_separation_km": 3662.836,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 1.4411565509641302e-64,
+      "tail_probability": 3.3418174625127435e-66,
+      "volume_based": 3.252342057262294e-66,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 12.203953885921932,
+      "std_distance_km": 0.6896512762601259,
+      "min_distance_km": 10.10020810023448,
+      "max_distance_km": 14.51069166419017,
+      "percentile_5": 11.116083480495325,
+      "percentile_50": 12.174643671864843,
+      "percentile_95": 13.3511997725725
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-6320",
+    "object_2": "0 STARLINK-4493",
+    "norad_1": 57336,
+    "norad_2": 53533,
+    "distance_km": 48.279,
+    "tca_seconds": 660.6,
+    "risk_level": "MEDIUM",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 6.132,
+    "current_separation_km": 4051.174,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 46.81507667331936,
+      "std_distance_km": 0.6899756299743668,
+      "min_distance_km": 44.733921560712766,
+      "max_distance_km": 49.11342660359036,
+      "percentile_5": 45.74006506269799,
+      "percentile_50": 46.77812986951332,
+      "percentile_95": 47.96839000583875
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-6320",
+    "object_2": "0 STARLINK-32163",
+    "norad_1": 57336,
+    "norad_2": 60262,
+    "distance_km": 11.781,
+    "tca_seconds": 230.3,
+    "risk_level": "MEDIUM",
+    "collision_probability": 3.2745747174555384e-48,
+    "relative_velocity_kms": 4.291,
+    "current_separation_km": 988.462,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 1.2479464629129868e-47,
+      "tail_probability": 3.3720288261197946e-49,
+      "volume_based": 2.8163135808030544e-49,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 10.478600630874302,
+      "std_distance_km": 0.6893983629863558,
+      "min_distance_km": 8.370109135575486,
+      "max_distance_km": 12.785998105918253,
+      "percentile_5": 9.398547361917666,
+      "percentile_50": 10.451390615155395,
+      "percentile_95": 11.62215073292307
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-35993",
+    "object_2": "0 STARLINK-35408",
+    "norad_1": 66607,
+    "norad_2": 65859,
+    "distance_km": 28.738,
+    "tca_seconds": 270.7,
+    "risk_level": "MEDIUM",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 10.82,
+    "current_separation_km": 2928.842,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 27.769729833689976,
+      "std_distance_km": 0.6900193701649807,
+      "min_distance_km": 25.682941696920633,
+      "max_distance_km": 30.0710159065349,
+      "percentile_5": 26.688135143855252,
+      "percentile_50": 27.731862915606126,
+      "percentile_95": 28.91805197104688
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-31946",
+    "object_2": "0 STARLINK-4208",
+    "norad_1": 59940,
+    "norad_2": 52844,
+    "distance_km": 83.571,
+    "tca_seconds": 194.1,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 6.166,
+    "current_separation_km": 1199.962,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 83.18354782012027,
+      "std_distance_km": 0.6899067842660253,
+      "min_distance_km": 81.106033989208,
+      "max_distance_km": 85.47967944446195,
+      "percentile_5": 82.11189638787783,
+      "percentile_50": 83.14709604961062,
+      "percentile_95": 84.34108249779659
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-36054",
+    "object_2": "0 STARLINK-5844",
+    "norad_1": 66812,
+    "norad_2": 57068,
+    "distance_km": 76.141,
+    "tca_seconds": 469.5,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 9.143,
+    "current_separation_km": 4293.239,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 74.52398117844699,
+      "std_distance_km": 0.6899191156548182,
+      "min_distance_km": 72.44592028420628,
+      "max_distance_km": 76.82046259223323,
+      "percentile_5": 73.45187292640584,
+      "percentile_50": 74.48817592299417,
+      "percentile_95": 75.68088497084666
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-36054",
+    "object_2": "0 STARLINK-35986",
+    "norad_1": 66812,
+    "norad_2": 66853,
+    "distance_km": 12.385,
+    "tca_seconds": 383.7,
+    "risk_level": "MEDIUM",
+    "collision_probability": 3.7677453654047017e-65,
+    "relative_velocity_kms": 9.546,
+    "current_separation_km": 3662.836,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 1.4411565509641302e-64,
+      "tail_probability": 3.3418174625127435e-66,
+      "volume_based": 3.252342057262294e-66,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 12.203953885921932,
+      "std_distance_km": 0.6896512762601259,
+      "min_distance_km": 10.10020810023448,
+      "max_distance_km": 14.51069166419017,
+      "percentile_5": 11.116083480495325,
+      "percentile_50": 12.174643671864843,
+      "percentile_95": 13.3511997725725
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-31884",
+    "object_2": "0 STARLINK-31128",
+    "norad_1": 59676,
+    "norad_2": 58669,
+    "distance_km": 32.487,
+    "tca_seconds": 1304.7,
+    "risk_level": "MEDIUM",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 3.74,
+    "current_separation_km": 4880.023,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 31.231865728283562,
+      "std_distance_km": 0.6900152131785129,
+      "min_distance_km": 29.14660267785288,
+      "max_distance_km": 33.53241487976046,
+      "percentile_5": 30.15206328104037,
+      "percentile_50": 31.19444433514071,
+      "percentile_95": 32.38035075733302
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-33760",
+    "object_2": "0 STARLINK-2298",
+    "norad_1": 63764,
+    "norad_2": 48022,
+    "distance_km": 51.347,
+    "tca_seconds": 209.1,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 10.338,
+    "current_separation_km": 2161.888,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 50.278454153517366,
+      "std_distance_km": 0.6899669035537598,
+      "min_distance_km": 48.19787019831062,
+      "max_distance_km": 52.57647309171245,
+      "percentile_5": 49.204104651553834,
+      "percentile_50": 50.241754998979395,
+      "percentile_95": 51.43243313839834
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-31128",
+    "object_2": "0 STARLINK-31884",
+    "norad_1": 58669,
+    "norad_2": 59676,
+    "distance_km": 32.487,
+    "tca_seconds": 1304.7,
+    "risk_level": "MEDIUM",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 3.74,
+    "current_separation_km": 4880.023,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 31.231865728283562,
+      "std_distance_km": 0.6900152131785129,
+      "min_distance_km": 29.14660267785288,
+      "max_distance_km": 33.53241487976046,
+      "percentile_5": 30.15206328104037,
+      "percentile_50": 31.19444433514071,
+      "percentile_95": 32.38035075733302
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-35674",
+    "object_2": "0 STARLINK-6230",
+    "norad_1": 67117,
+    "norad_2": 57228,
+    "distance_km": 68.761,
+    "tca_seconds": 639.9,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 2.452,
+    "current_separation_km": 1570.538,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 67.596454660776,
+      "std_distance_km": 0.6899305559885228,
+      "min_distance_km": 65.51785603115519,
+      "max_distance_km": 69.89327416032313,
+      "percentile_5": 66.52389738102868,
+      "percentile_50": 67.56080546086662,
+      "percentile_95": 68.75273719950162
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-32740",
+    "object_2": "0 STARLINK-3372",
+    "norad_1": 62754,
+    "norad_2": 51113,
+    "distance_km": 57.851,
+    "tca_seconds": 283.8,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 5.479,
+    "current_separation_km": 1556.106,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 57.205472171207674,
+      "std_distance_km": 0.6899509096777185,
+      "min_distance_km": 55.12582515082737,
+      "max_distance_km": 59.502934572995436,
+      "percentile_5": 56.13203944497211,
+      "percentile_50": 57.169178470771804,
+      "percentile_95": 58.36054023135644
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-6230",
+    "object_2": "0 STARLINK-35674",
+    "norad_1": 57228,
+    "norad_2": 67117,
+    "distance_km": 68.761,
+    "tca_seconds": 639.9,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 2.452,
+    "current_separation_km": 1570.538,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 67.596454660776,
+      "std_distance_km": 0.6899305559885228,
+      "min_distance_km": 65.51785603115519,
+      "max_distance_km": 69.89327416032313,
+      "percentile_5": 66.52389738102868,
+      "percentile_50": 67.56080546086662,
+      "percentile_95": 68.75273719950162
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-30161",
+    "object_2": "0 STARLINK-1300",
+    "norad_1": 57476,
+    "norad_2": 45374,
+    "distance_km": 2.802,
+    "tca_seconds": 2725.9,
+    "risk_level": "HIGH",
+    "collision_probability": 0.13726589535008,
+    "relative_velocity_kms": 0.472,
+    "current_separation_km": 1286.578,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.049787068367863986,
+      "tail_probability": 0.007152939217714837,
+      "volume_based": 0.0011235738147411538,
+      "monte_carlo": 0.491
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 491,
+      "mean_distance_km": 2.0448844069047296,
+      "std_distance_km": 0.6449409314830645,
+      "min_distance_km": 0.30825115792012225,
+      "max_distance_km": 4.405788365879691,
+      "percentile_5": 1.0191615802361274,
+      "percentile_50": 2.02548859897127,
+      "percentile_95": 3.0933148922534897
+    },
+    "pc_classification": "HIGH",
+    "decision_recommendation": "EXECUTE_MANEUVER",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 LEGION 4",
+    "object_2": "0 STARLINK-5233",
+    "norad_1": 60453,
+    "norad_2": 54160,
+    "distance_km": 17.341,
+    "tca_seconds": 340.4,
+    "risk_level": "MEDIUM",
+    "collision_probability": 1.337022764806683e-131,
+    "relative_velocity_kms": 10.351,
+    "current_separation_km": 3522.967,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 5.148200222412013e-131,
+      "tail_probability": 8.370839923459415e-133,
+      "volume_based": 1.16182437580124e-132,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 17.388024422782266,
+      "std_distance_km": 0.6899421354067813,
+      "min_distance_km": 15.293156438349682,
+      "max_distance_km": 19.692522631678173,
+      "percentile_5": 16.29679322462212,
+      "percentile_50": 17.356505321370122,
+      "percentile_95": 18.54158934602258
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 DELTA 2 R/B",
+    "object_2": "0 STARLINK-37132",
+    "norad_1": 25774,
+    "norad_2": 68233,
+    "distance_km": 45.738,
+    "tca_seconds": 1930.3,
+    "risk_level": "MEDIUM",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 2.229,
+    "current_separation_km": 4303.694,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 45.083429657031665,
+      "std_distance_km": 0.6899801518147274,
+      "min_distance_km": 43.00195648425086,
+      "max_distance_km": 47.381961206113075,
+      "percentile_5": 44.00804893003559,
+      "percentile_50": 45.04634478244701,
+      "percentile_95": 46.23637172572371
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 KUIPER-00249",
+    "object_2": "0 STARLINK-32029",
+    "norad_1": 67154,
+    "norad_2": 60145,
+    "distance_km": 77.89,
+    "tca_seconds": 191.3,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 9.712,
+    "current_separation_km": 1859.302,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 76.25588201812205,
+      "std_distance_km": 0.6899164864145131,
+      "min_distance_km": 74.1779404038166,
+      "max_distance_km": 78.55228766810906,
+      "percentile_5": 75.18387336924269,
+      "percentile_50": 76.21993570204526,
+      "percentile_95": 77.41292346473388
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-2055",
+    "object_2": "0 STARLINK-31967",
+    "norad_1": 47358,
+    "norad_2": 60021,
+    "distance_km": 59.055,
+    "tca_seconds": 739.6,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 6.15,
+    "current_separation_km": 4548.741,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 58.93727020710617,
+      "std_distance_km": 0.6899472236665839,
+      "min_distance_km": 56.85782334284517,
+      "max_distance_km": 61.23461151837928,
+      "percentile_5": 57.86400462011298,
+      "percentile_50": 58.901062998194575,
+      "percentile_95": 60.09257046827506
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-2298",
+    "object_2": "0 STARLINK-33760",
+    "norad_1": 48022,
+    "norad_2": 63764,
+    "distance_km": 51.347,
+    "tca_seconds": 209.1,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 10.338,
+    "current_separation_km": 2161.888,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 50.278454153517366,
+      "std_distance_km": 0.6899669035537598,
+      "min_distance_km": 48.19787019831062,
+      "max_distance_km": 52.57647309171245,
+      "percentile_5": 49.204104651553834,
+      "percentile_50": 50.241754998979395,
+      "percentile_95": 51.43243313839834
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-34661",
+    "object_2": "0 STARLINK-3680",
+    "norad_1": 64927,
+    "norad_2": 51969,
+    "distance_km": 54.133,
+    "tca_seconds": 63.8,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 11.092,
+    "current_separation_km": 709.641,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 53.7419249705973,
+      "std_distance_km": 0.6899586557565077,
+      "min_distance_km": 51.66183935078575,
+      "max_distance_km": 56.03965000587414,
+      "percentile_5": 52.66812599089615,
+      "percentile_50": 53.7054415894241,
+      "percentile_95": 54.8964836516586
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-35408",
+    "object_2": "0 STARLINK-35993",
+    "norad_1": 65859,
+    "norad_2": 66607,
+    "distance_km": 28.738,
+    "tca_seconds": 270.7,
+    "risk_level": "MEDIUM",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 10.82,
+    "current_separation_km": 2928.842,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 27.769729833689976,
+      "std_distance_km": 0.6900193701649807,
+      "min_distance_km": 25.682941696920633,
+      "max_distance_km": 30.0710159065349,
+      "percentile_5": 26.688135143855252,
+      "percentile_50": 27.731862915606126,
+      "percentile_95": 28.91805197104688
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-3680",
+    "object_2": "0 STARLINK-34661",
+    "norad_1": 51969,
+    "norad_2": 64927,
+    "distance_km": 54.133,
+    "tca_seconds": 63.8,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 11.092,
+    "current_separation_km": 709.641,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 53.7419249705973,
+      "std_distance_km": 0.6899586557565077,
+      "min_distance_km": 51.66183935078575,
+      "max_distance_km": 56.03965000587414,
+      "percentile_5": 52.66812599089615,
+      "percentile_50": 53.7054415894241,
+      "percentile_95": 54.8964836516586
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-2598",
+    "object_2": "0 STARLINK-1012",
+    "norad_1": 48385,
+    "norad_2": 44718,
+    "distance_km": 56.961,
+    "tca_seconds": 435.2,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 10.949,
+    "current_separation_km": 4764.934,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 55.47368991715601,
+      "std_distance_km": 0.6899547198884018,
+      "min_distance_km": 53.393830372366,
+      "max_distance_km": 57.771280042851075,
+      "percentile_5": 54.40007972259031,
+      "percentile_50": 55.43730433283977,
+      "percentile_95": 56.62851125278261
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-34850",
+    "object_2": "0 STARLINK-34100",
+    "norad_1": 65460,
+    "norad_2": 64385,
+    "distance_km": 73.076,
+    "tca_seconds": 752.3,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 5.512,
+    "current_separation_km": 4147.5,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 72.79208747444389,
+      "std_distance_km": 0.6899218334470882,
+      "min_distance_km": 70.71390166791092,
+      "max_distance_km": 75.08864792947102,
+      "percentile_5": 71.71987491616387,
+      "percentile_50": 72.75642999817185,
+      "percentile_95": 73.94884705378526
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-2483",
+    "object_2": "0 STARLINK-4218",
+    "norad_1": 48140,
+    "norad_2": 53025,
+    "distance_km": 72.692,
+    "tca_seconds": 81.4,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 10.367,
+    "current_separation_km": 847.254,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 71.06020142781257,
+      "std_distance_km": 0.6899246435319374,
+      "min_distance_km": 68.9818846681676,
+      "max_distance_km": 73.35684441732346,
+      "percentile_5": 69.98787951911513,
+      "percentile_50": 71.0246989408067,
+      "percentile_95": 72.21680975505313
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 TBA - TO BE ASSIGNED",
+    "object_2": "0 STARLINK-30913",
+    "norad_1": 68346,
+    "norad_2": 58388,
+    "distance_km": 94.159,
+    "tca_seconds": 718.0,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 1.742,
+    "current_separation_km": 1254.701,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 93.57519571669054,
+      "std_distance_km": 0.6898943296778635,
+      "min_distance_km": 91.4982055005351,
+      "max_distance_km": 95.870986998048,
+      "percentile_5": 92.50398152947938,
+      "percentile_50": 93.53884283297364,
+      "percentile_95": 94.73333316848752
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-37132",
+    "object_2": "0 DELTA 2 R/B",
+    "norad_1": 68233,
+    "norad_2": 25774,
+    "distance_km": 45.738,
+    "tca_seconds": 1930.3,
+    "risk_level": "MEDIUM",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 2.229,
+    "current_separation_km": 4303.694,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 45.083429657031665,
+      "std_distance_km": 0.6899801518147274,
+      "min_distance_km": 43.00195648425086,
+      "max_distance_km": 47.381961206113075,
+      "percentile_5": 44.00804893003559,
+      "percentile_50": 45.04634478244701,
+      "percentile_95": 46.23637172572371
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-35160",
+    "object_2": "0 STARLINK-32163",
+    "norad_1": 65911,
+    "norad_2": 60262,
+    "distance_km": 72.627,
+    "tca_seconds": 258.2,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 8.614,
+    "current_separation_km": 2225.274,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 71.06020142781257,
+      "std_distance_km": 0.6899246435319374,
+      "min_distance_km": 68.9818846681676,
+      "max_distance_km": 73.35684441732346,
+      "percentile_5": 69.98787951911513,
+      "percentile_50": 71.0246989408067,
+      "percentile_95": 72.21680975505313
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-32163",
+    "object_2": "0 STARLINK-35160",
+    "norad_1": 60262,
+    "norad_2": 65911,
+    "distance_km": 72.627,
+    "tca_seconds": 258.2,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 8.614,
+    "current_separation_km": 2225.274,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 71.06020142781257,
+      "std_distance_km": 0.6899246435319374,
+      "min_distance_km": 68.9818846681676,
+      "max_distance_km": 73.35684441732346,
+      "percentile_5": 69.98787951911513,
+      "percentile_50": 71.0246989408067,
+      "percentile_95": 72.21680975505313
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-32163",
+    "object_2": "0 STARLINK-6320",
+    "norad_1": 60262,
+    "norad_2": 57336,
+    "distance_km": 11.781,
+    "tca_seconds": 230.3,
+    "risk_level": "MEDIUM",
+    "collision_probability": 3.2745747174555384e-48,
+    "relative_velocity_kms": 4.291,
+    "current_separation_km": 988.462,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 1.2479464629129868e-47,
+      "tail_probability": 3.3720288261197946e-49,
+      "volume_based": 2.8163135808030544e-49,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 10.478600630874302,
+      "std_distance_km": 0.6893983629863558,
+      "min_distance_km": 8.370109135575486,
+      "max_distance_km": 12.785998105918253,
+      "percentile_5": 9.398547361917666,
+      "percentile_50": 10.451390615155395,
+      "percentile_95": 11.62215073292307
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-35071",
+    "object_2": "0 STARLINK-32400",
+    "norad_1": 65477,
+    "norad_2": 61669,
+    "distance_km": 4.131,
+    "tca_seconds": 174.0,
+    "risk_level": "HIGH",
+    "collision_probability": 0.002001691137720501,
+    "relative_velocity_kms": 10.988,
+    "current_separation_km": 1912.304,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 6.144212353328232e-06,
+      "tail_probability": 4.816785043215506e-07,
+      "volume_based": 1.3866002435412916e-07,
+      "monte_carlo": 0.008
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 8,
+      "mean_distance_km": 3.642986055845751,
+      "std_distance_km": 0.6796482089481409,
+      "min_distance_km": 1.4710446058877473,
+      "max_distance_km": 5.930265384443876,
+      "percentile_5": 2.5778576751230826,
+      "percentile_50": 3.6127525647684506,
+      "percentile_95": 4.773690493433525
+    },
+    "pc_classification": "HIGH",
+    "decision_recommendation": "EXECUTE_MANEUVER",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-35071",
+    "object_2": "0 STARLINK-4002",
+    "norad_1": 65477,
+    "norad_2": 52612,
+    "distance_km": 85.371,
+    "tca_seconds": 662.0,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 6.558,
+    "current_separation_km": 4341.687,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 84.91547797121021,
+      "std_distance_km": 0.6899045458854577,
+      "min_distance_km": 82.83806025122244,
+      "max_distance_km": 87.21154753205921,
+      "percentile_5": 83.84390679598694,
+      "percentile_50": 84.87891273454306,
+      "percentile_95": 86.07312336778332
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-30913",
+    "object_2": "0 TBA - TO BE ASSIGNED",
+    "norad_1": 58388,
+    "norad_2": 68346,
+    "distance_km": 94.159,
+    "tca_seconds": 718.0,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 1.742,
+    "current_separation_km": 1254.701,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 93.57519571669054,
+      "std_distance_km": 0.6898943296778635,
+      "min_distance_km": 91.4982055005351,
+      "max_distance_km": 95.870986998048,
+      "percentile_5": 92.50398152947938,
+      "percentile_50": 93.53884283297364,
+      "percentile_95": 94.73333316848752
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-1012",
+    "object_2": "0 STARLINK-2598",
+    "norad_1": 44718,
+    "norad_2": 48385,
+    "distance_km": 56.961,
+    "tca_seconds": 435.2,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 10.949,
+    "current_separation_km": 4764.934,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 55.47368991715601,
+      "std_distance_km": 0.6899547198884018,
+      "min_distance_km": 53.393830372366,
+      "max_distance_km": 57.771280042851075,
+      "percentile_5": 54.40007972259031,
+      "percentile_50": 55.43730433283977,
+      "percentile_95": 56.62851125278261
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-31967",
+    "object_2": "0 STARLINK-2055",
+    "norad_1": 60021,
+    "norad_2": 47358,
+    "distance_km": 59.055,
+    "tca_seconds": 739.6,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 6.15,
+    "current_separation_km": 4548.741,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 58.93727020710617,
+      "std_distance_km": 0.6899472236665839,
+      "min_distance_km": 56.85782334284517,
+      "max_distance_km": 61.23461151837928,
+      "percentile_5": 57.86400462011298,
+      "percentile_50": 58.901062998194575,
+      "percentile_95": 60.09257046827506
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-32029",
+    "object_2": "0 KUIPER-00249",
+    "norad_1": 60145,
+    "norad_2": 67154,
+    "distance_km": 77.89,
+    "tca_seconds": 191.3,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 9.712,
+    "current_separation_km": 1859.302,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 76.25588201812205,
+      "std_distance_km": 0.6899164864145131,
+      "min_distance_km": 74.1779404038166,
+      "max_distance_km": 78.55228766810906,
+      "percentile_5": 75.18387336924269,
+      "percentile_50": 76.21993570204526,
+      "percentile_95": 77.41292346473388
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-2228",
+    "object_2": "0 STARLINK-4056",
+    "norad_1": 48576,
+    "norad_2": 53242,
+    "distance_km": 64.683,
+    "tca_seconds": 135.1,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 2.229,
+    "current_separation_km": 308.102,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 64.13274622123608,
+      "std_distance_km": 0.6899368843205573,
+      "min_distance_km": 62.05383554193877,
+      "max_distance_km": 66.4297593163846,
+      "percentile_5": 63.05992836924344,
+      "percentile_50": 64.09677049624452,
+      "percentile_95": 65.28866772763072
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-32400",
+    "object_2": "0 STARLINK-35071",
+    "norad_1": 61669,
+    "norad_2": 65477,
+    "distance_km": 4.131,
+    "tca_seconds": 174.0,
+    "risk_level": "HIGH",
+    "collision_probability": 0.002001691137720501,
+    "relative_velocity_kms": 10.988,
+    "current_separation_km": 1912.304,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 6.144212353328232e-06,
+      "tail_probability": 4.816785043215506e-07,
+      "volume_based": 1.3866002435412916e-07,
+      "monte_carlo": 0.008
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 8,
+      "mean_distance_km": 3.642986055845751,
+      "std_distance_km": 0.6796482089481409,
+      "min_distance_km": 1.4710446058877473,
+      "max_distance_km": 5.930265384443876,
+      "percentile_5": 2.5778576751230826,
+      "percentile_50": 3.6127525647684506,
+      "percentile_95": 4.773690493433525
+    },
+    "pc_classification": "HIGH",
+    "decision_recommendation": "EXECUTE_MANEUVER",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-30353",
+    "object_2": "0 STARLINK-35276",
+    "norad_1": 58113,
+    "norad_2": 66009,
+    "distance_km": 16.1,
+    "tca_seconds": 86.0,
+    "risk_level": "MEDIUM",
+    "collision_probability": 7.615106498008608e-107,
+    "relative_velocity_kms": 7.218,
+    "current_separation_km": 620.706,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 2.9271224965155344e-106,
+      "tail_probability": 5.2862021795815655e-108,
+      "volume_based": 6.6058080892092845e-108,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 15.659109201313324,
+      "std_distance_km": 0.6898872737758442,
+      "min_distance_km": 13.561900940548057,
+      "max_distance_km": 17.964326388442846,
+      "percentile_5": 14.565280735062142,
+      "percentile_50": 15.630176167435224,
+      "percentile_95": 16.810970534779948
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-1300",
+    "object_2": "0 STARLINK-30161",
+    "norad_1": 45374,
+    "norad_2": 57476,
+    "distance_km": 2.802,
+    "tca_seconds": 2725.9,
+    "risk_level": "HIGH",
+    "collision_probability": 0.13726589535008,
+    "relative_velocity_kms": 0.472,
+    "current_separation_km": 1286.578,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.049787068367863986,
+      "tail_probability": 0.007152939217714837,
+      "volume_based": 0.0011235738147411538,
+      "monte_carlo": 0.491
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 491,
+      "mean_distance_km": 2.0448844069047296,
+      "std_distance_km": 0.6449409314830645,
+      "min_distance_km": 0.30825115792012225,
+      "max_distance_km": 4.405788365879691,
+      "percentile_5": 1.0191615802361274,
+      "percentile_50": 2.02548859897127,
+      "percentile_95": 3.0933148922534897
+    },
+    "pc_classification": "HIGH",
+    "decision_recommendation": "EXECUTE_MANEUVER",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-35276",
+    "object_2": "0 STARLINK-30353",
+    "norad_1": 66009,
+    "norad_2": 58113,
+    "distance_km": 16.1,
+    "tca_seconds": 86.0,
+    "risk_level": "MEDIUM",
+    "collision_probability": 7.615106498008608e-107,
+    "relative_velocity_kms": 7.218,
+    "current_separation_km": 620.706,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 2.9271224965155344e-106,
+      "tail_probability": 5.2862021795815655e-108,
+      "volume_based": 6.6058080892092845e-108,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 15.659109201313324,
+      "std_distance_km": 0.6898872737758442,
+      "min_distance_km": 13.561900940548057,
+      "max_distance_km": 17.964326388442846,
+      "percentile_5": 14.565280735062142,
+      "percentile_50": 15.630176167435224,
+      "percentile_95": 16.810970534779948
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-4056",
+    "object_2": "0 STARLINK-2228",
+    "norad_1": 53242,
+    "norad_2": 48576,
+    "distance_km": 64.683,
+    "tca_seconds": 135.1,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 2.229,
+    "current_separation_km": 308.102,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 64.13274622123608,
+      "std_distance_km": 0.6899368843205573,
+      "min_distance_km": 62.05383554193877,
+      "max_distance_km": 66.4297593163846,
+      "percentile_5": 63.05992836924344,
+      "percentile_50": 64.09677049624452,
+      "percentile_95": 65.28866772763072
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-5233",
+    "object_2": "0 LEGION 4",
+    "norad_1": 54160,
+    "norad_2": 60453,
+    "distance_km": 17.341,
+    "tca_seconds": 340.4,
+    "risk_level": "MEDIUM",
+    "collision_probability": 1.337022764806683e-131,
+    "relative_velocity_kms": 10.351,
+    "current_separation_km": 3522.967,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 5.148200222412013e-131,
+      "tail_probability": 8.370839923459415e-133,
+      "volume_based": 1.16182437580124e-132,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 17.388024422782266,
+      "std_distance_km": 0.6899421354067813,
+      "min_distance_km": 15.293156438349682,
+      "max_distance_km": 19.692522631678173,
+      "percentile_5": 16.29679322462212,
+      "percentile_50": 17.356505321370122,
+      "percentile_95": 18.54158934602258
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-3372",
+    "object_2": "0 STARLINK-32740",
+    "norad_1": 51113,
+    "norad_2": 62754,
+    "distance_km": 57.851,
+    "tca_seconds": 283.8,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 5.479,
+    "current_separation_km": 1556.106,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 57.205472171207674,
+      "std_distance_km": 0.6899509096777185,
+      "min_distance_km": 55.12582515082737,
+      "max_distance_km": 59.502934572995436,
+      "percentile_5": 56.13203944497211,
+      "percentile_50": 57.169178470771804,
+      "percentile_95": 58.36054023135644
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-5242",
+    "object_2": "0 STARLINK-31885",
+    "norad_1": 54173,
+    "norad_2": 59660,
+    "distance_km": 73.037,
+    "tca_seconds": 262.3,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 10.826,
+    "current_separation_km": 2840.449,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 72.79208747444389,
+      "std_distance_km": 0.6899218334470882,
+      "min_distance_km": 70.71390166791092,
+      "max_distance_km": 75.08864792947102,
+      "percentile_5": 71.71987491616387,
+      "percentile_50": 72.75642999817185,
+      "percentile_95": 73.94884705378526
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-4002",
+    "object_2": "0 STARLINK-35071",
+    "norad_1": 52612,
+    "norad_2": 65477,
+    "distance_km": 85.371,
+    "tca_seconds": 662.0,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 6.558,
+    "current_separation_km": 4341.687,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 84.91547797121021,
+      "std_distance_km": 0.6899045458854577,
+      "min_distance_km": 82.83806025122244,
+      "max_distance_km": 87.21154753205921,
+      "percentile_5": 83.84390679598694,
+      "percentile_50": 84.87891273454306,
+      "percentile_95": 86.07312336778332
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-4100",
+    "object_2": "0 YAOGAN-30 AC",
+    "norad_1": 53144,
+    "norad_2": 48863,
+    "distance_km": 99.881,
+    "tca_seconds": 242.5,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 10.025,
+    "current_separation_km": 2433.035,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 98.77107149904003,
+      "std_distance_km": 0.6898888892494812,
+      "min_distance_km": 96.6943020037786,
+      "max_distance_km": 101.06671768196416,
+      "percentile_5": 97.70004162739409,
+      "percentile_50": 98.73492259735923,
+      "percentile_95": 99.92946272929828
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-4280",
+    "object_2": "0 STARLINK-32941",
+    "norad_1": 53178,
+    "norad_2": 63119,
+    "distance_km": 60.961,
+    "tca_seconds": 100.1,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 1.612,
+    "current_separation_km": 172.509,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 60.66908267340058,
+      "std_distance_km": 0.6899436594989323,
+      "min_distance_km": 58.58982464569071,
+      "max_distance_km": 62.9663090296349,
+      "percentile_5": 59.59597477261495,
+      "percentile_50": 60.63295702489152,
+      "percentile_95": 61.82460185778036
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-4208",
+    "object_2": "0 STARLINK-31946",
+    "norad_1": 52844,
+    "norad_2": 59940,
+    "distance_km": 83.571,
+    "tca_seconds": 194.1,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 6.166,
+    "current_separation_km": 1199.962,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 83.18354782012027,
+      "std_distance_km": 0.6899067842660253,
+      "min_distance_km": 81.106033989208,
+      "max_distance_km": 85.47967944446195,
+      "percentile_5": 82.11189638787783,
+      "percentile_50": 83.14709604961062,
+      "percentile_95": 84.34108249779659
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-4095",
+    "object_2": "0 STARLINK-4032",
+    "norad_1": 53170,
+    "norad_2": 52688,
+    "distance_km": 65.248,
+    "tca_seconds": 387.6,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 10.963,
+    "current_separation_km": 4249.433,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 64.13274622123608,
+      "std_distance_km": 0.6899368843205573,
+      "min_distance_km": 62.05383554193877,
+      "max_distance_km": 66.4297593163846,
+      "percentile_5": 63.05992836924344,
+      "percentile_50": 64.09677049624452,
+      "percentile_95": 65.28866772763072
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-4218",
+    "object_2": "0 STARLINK-2483",
+    "norad_1": 53025,
+    "norad_2": 48140,
+    "distance_km": 72.692,
+    "tca_seconds": 81.4,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 10.367,
+    "current_separation_km": 847.254,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 71.06020142781257,
+      "std_distance_km": 0.6899246435319374,
+      "min_distance_km": 68.9818846681676,
+      "max_distance_km": 73.35684441732346,
+      "percentile_5": 69.98787951911513,
+      "percentile_50": 71.0246989408067,
+      "percentile_95": 72.21680975505313
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-4493",
+    "object_2": "0 STARLINK-6320",
+    "norad_1": 53533,
+    "norad_2": 57336,
+    "distance_km": 48.279,
+    "tca_seconds": 660.6,
+    "risk_level": "MEDIUM",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 6.132,
+    "current_separation_km": 4051.174,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 46.81507667331936,
+      "std_distance_km": 0.6899756299743668,
+      "min_distance_km": 44.733921560712766,
+      "max_distance_km": 49.11342660359036,
+      "percentile_5": 45.74006506269799,
+      "percentile_50": 46.77812986951332,
+      "percentile_95": 47.96839000583875
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "object_1": "0 STARLINK-4032",
+    "object_2": "0 STARLINK-4095",
+    "norad_1": 52688,
+    "norad_2": 53170,
+    "distance_km": 65.248,
+    "tca_seconds": 387.6,
+    "risk_level": "LOW",
+    "collision_probability": 0.0,
+    "relative_velocity_kms": 10.963,
+    "current_separation_km": 4249.433,
+    "uncertainty_km": 0.7071067811865476,
+    "pc_methods": {
+      "gaussian": 0.0,
+      "tail_probability": 0.0,
+      "volume_based": 0.0,
+      "monte_carlo": 0.0
+    },
+    "monte_carlo_stats": {
+      "n_samples": 1000,
+      "collisions": 0,
+      "mean_distance_km": 64.13274622123608,
+      "std_distance_km": 0.6899368843205573,
+      "min_distance_km": 62.05383554193877,
+      "max_distance_km": 66.4297593163846,
+      "percentile_5": 63.05992836924344,
+      "percentile_50": 64.09677049624452,
+      "percentile_95": 65.28866772763072
+    },
+    "pc_classification": "LOW",
+    "decision_recommendation": "ROUTINE",
+    "combined_covariance_diag": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  }
+]

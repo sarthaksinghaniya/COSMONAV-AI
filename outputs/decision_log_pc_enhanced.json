@@ -1,0 +1,1541 @@
+{
+  "timestamp": "2026-04-01T19:51:11.161380",
+  "analysis_date": "2026-04-01 19:51:11",
+  "total_decisions": 60,
+  "decisions_by_type": {
+    "execute_maneuvers": 4,
+    "monitor_close": 0,
+    "routine_monitoring": 56,
+    "unclassified": 0
+  },
+  "decisions": {
+    "execute_maneuvers": [
+      {
+        "object_1": "0 STARLINK-30161",
+        "object_2": "0 STARLINK-1300",
+        "collision_probability": 0.13726589535008,
+        "pc_classification": "HIGH",
+        "miss_distance_km": 2.802,
+        "time_to_ca_seconds": 2725.9,
+        "relative_velocity_kms": 0.472,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "IMMEDIATE_MANEUVER",
+        "urgency": "HIGH",
+        "priority": 3,
+        "reasoning": "High collision probability (1.37e-01). Miss distance 2.8 km with significant uncertainty.",
+        "maneuver_recommendation": {
+          "required": true,
+          "maneuver_type": "velocity_adjustment",
+          "delta_v_mps": 47.199999999999996,
+          "execution_window_seconds": 2425.9,
+          "preferred_direction": "radial_outward",
+          "abort_if_pc_drops_below": 0.0001,
+          "post_maneuver_verification": true
+        },
+        "tracking_frequency": {
+          "frequency": "1 minute",
+          "duration": "until Pc drops to 1e-4",
+          "ephemeris_update": "continuous",
+          "tracking_mode": "high_precision"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-35071",
+        "object_2": "0 STARLINK-32400",
+        "collision_probability": 0.002001691137720501,
+        "pc_classification": "HIGH",
+        "miss_distance_km": 4.131,
+        "time_to_ca_seconds": 174.0,
+        "relative_velocity_kms": 10.988,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "IMMEDIATE_MANEUVER",
+        "urgency": "CRITICAL",
+        "priority": 1,
+        "reasoning": "High collision probability (2.00e-03). Miss distance 4.1 km with significant uncertainty.",
+        "maneuver_recommendation": {
+          "required": true,
+          "maneuver_type": "velocity_adjustment",
+          "delta_v_mps": 1098.8,
+          "execution_window_seconds": 60,
+          "preferred_direction": "radial_outward",
+          "abort_if_pc_drops_below": 0.0001,
+          "post_maneuver_verification": true
+        },
+        "tracking_frequency": {
+          "frequency": "1 minute",
+          "duration": "until Pc drops to 1e-4",
+          "ephemeris_update": "continuous",
+          "tracking_mode": "high_precision"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-32400",
+        "object_2": "0 STARLINK-35071",
+        "collision_probability": 0.002001691137720501,
+        "pc_classification": "HIGH",
+        "miss_distance_km": 4.131,
+        "time_to_ca_seconds": 174.0,
+        "relative_velocity_kms": 10.988,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "IMMEDIATE_MANEUVER",
+        "urgency": "CRITICAL",
+        "priority": 1,
+        "reasoning": "High collision probability (2.00e-03). Miss distance 4.1 km with significant uncertainty.",
+        "maneuver_recommendation": {
+          "required": true,
+          "maneuver_type": "velocity_adjustment",
+          "delta_v_mps": 1098.8,
+          "execution_window_seconds": 60,
+          "preferred_direction": "radial_outward",
+          "abort_if_pc_drops_below": 0.0001,
+          "post_maneuver_verification": true
+        },
+        "tracking_frequency": {
+          "frequency": "1 minute",
+          "duration": "until Pc drops to 1e-4",
+          "ephemeris_update": "continuous",
+          "tracking_mode": "high_precision"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-1300",
+        "object_2": "0 STARLINK-30161",
+        "collision_probability": 0.13726589535008,
+        "pc_classification": "HIGH",
+        "miss_distance_km": 2.802,
+        "time_to_ca_seconds": 2725.9,
+        "relative_velocity_kms": 0.472,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "IMMEDIATE_MANEUVER",
+        "urgency": "HIGH",
+        "priority": 3,
+        "reasoning": "High collision probability (1.37e-01). Miss distance 2.8 km with significant uncertainty.",
+        "maneuver_recommendation": {
+          "required": true,
+          "maneuver_type": "velocity_adjustment",
+          "delta_v_mps": 47.199999999999996,
+          "execution_window_seconds": 2425.9,
+          "preferred_direction": "radial_outward",
+          "abort_if_pc_drops_below": 0.0001,
+          "post_maneuver_verification": true
+        },
+        "tracking_frequency": {
+          "frequency": "1 minute",
+          "duration": "until Pc drops to 1e-4",
+          "ephemeris_update": "continuous",
+          "tracking_mode": "high_precision"
+        }
+      }
+    ],
+    "monitor_close": [],
+    "routine_monitoring": [
+      {
+        "object_1": "0 YAOGAN-30 AC",
+        "object_2": "0 STARLINK-4100",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 99.881,
+        "time_to_ca_seconds": 242.5,
+        "relative_velocity_kms": 10.025,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 99.9 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-34100",
+        "object_2": "0 STARLINK-34850",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 73.076,
+        "time_to_ca_seconds": 752.3,
+        "relative_velocity_kms": 5.512,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 73.1 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-32941",
+        "object_2": "0 STARLINK-4280",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 60.961,
+        "time_to_ca_seconds": 100.1,
+        "relative_velocity_kms": 1.612,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 61.0 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-34138",
+        "object_2": "0 STARLINK-5872",
+        "collision_probability": 5.055475109409701e-13,
+        "pc_classification": "LOW",
+        "miss_distance_km": 6.584,
+        "time_to_ca_seconds": 221.9,
+        "relative_velocity_kms": 7.775,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (5.06e-13). Distance 6.6 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-5844",
+        "object_2": "0 STARLINK-36054",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 76.141,
+        "time_to_ca_seconds": 469.5,
+        "relative_velocity_kms": 9.143,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 76.1 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-5872",
+        "object_2": "0 STARLINK-34138",
+        "collision_probability": 5.055475109409701e-13,
+        "pc_classification": "LOW",
+        "miss_distance_km": 6.584,
+        "time_to_ca_seconds": 221.9,
+        "relative_velocity_kms": 7.775,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (5.06e-13). Distance 6.6 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-31885",
+        "object_2": "0 STARLINK-5242",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 73.037,
+        "time_to_ca_seconds": 262.3,
+        "relative_velocity_kms": 10.826,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 73.0 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-35986",
+        "object_2": "0 STARLINK-36054",
+        "collision_probability": 3.7677453654047017e-65,
+        "pc_classification": "LOW",
+        "miss_distance_km": 12.385,
+        "time_to_ca_seconds": 383.7,
+        "relative_velocity_kms": 9.546,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (3.77e-65). Distance 12.4 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-6320",
+        "object_2": "0 STARLINK-4493",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 48.279,
+        "time_to_ca_seconds": 660.6,
+        "relative_velocity_kms": 6.132,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 48.3 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-6320",
+        "object_2": "0 STARLINK-32163",
+        "collision_probability": 3.2745747174555384e-48,
+        "pc_classification": "LOW",
+        "miss_distance_km": 11.781,
+        "time_to_ca_seconds": 230.3,
+        "relative_velocity_kms": 4.291,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (3.27e-48). Distance 11.8 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-35993",
+        "object_2": "0 STARLINK-35408",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 28.738,
+        "time_to_ca_seconds": 270.7,
+        "relative_velocity_kms": 10.82,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 28.7 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-31946",
+        "object_2": "0 STARLINK-4208",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 83.571,
+        "time_to_ca_seconds": 194.1,
+        "relative_velocity_kms": 6.166,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 83.6 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-36054",
+        "object_2": "0 STARLINK-5844",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 76.141,
+        "time_to_ca_seconds": 469.5,
+        "relative_velocity_kms": 9.143,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 76.1 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-36054",
+        "object_2": "0 STARLINK-35986",
+        "collision_probability": 3.7677453654047017e-65,
+        "pc_classification": "LOW",
+        "miss_distance_km": 12.385,
+        "time_to_ca_seconds": 383.7,
+        "relative_velocity_kms": 9.546,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (3.77e-65). Distance 12.4 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-31884",
+        "object_2": "0 STARLINK-31128",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 32.487,
+        "time_to_ca_seconds": 1304.7,
+        "relative_velocity_kms": 3.74,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 32.5 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-33760",
+        "object_2": "0 STARLINK-2298",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 51.347,
+        "time_to_ca_seconds": 209.1,
+        "relative_velocity_kms": 10.338,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 51.3 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-31128",
+        "object_2": "0 STARLINK-31884",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 32.487,
+        "time_to_ca_seconds": 1304.7,
+        "relative_velocity_kms": 3.74,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 32.5 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-35674",
+        "object_2": "0 STARLINK-6230",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 68.761,
+        "time_to_ca_seconds": 639.9,
+        "relative_velocity_kms": 2.452,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 68.8 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-32740",
+        "object_2": "0 STARLINK-3372",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 57.851,
+        "time_to_ca_seconds": 283.8,
+        "relative_velocity_kms": 5.479,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 57.9 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-6230",
+        "object_2": "0 STARLINK-35674",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 68.761,
+        "time_to_ca_seconds": 639.9,
+        "relative_velocity_kms": 2.452,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 68.8 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 LEGION 4",
+        "object_2": "0 STARLINK-5233",
+        "collision_probability": 1.337022764806683e-131,
+        "pc_classification": "LOW",
+        "miss_distance_km": 17.341,
+        "time_to_ca_seconds": 340.4,
+        "relative_velocity_kms": 10.351,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (1.34e-131). Distance 17.3 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 DELTA 2 R/B",
+        "object_2": "0 STARLINK-37132",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 45.738,
+        "time_to_ca_seconds": 1930.3,
+        "relative_velocity_kms": 2.229,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 45.7 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 KUIPER-00249",
+        "object_2": "0 STARLINK-32029",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 77.89,
+        "time_to_ca_seconds": 191.3,
+        "relative_velocity_kms": 9.712,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 77.9 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-2055",
+        "object_2": "0 STARLINK-31967",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 59.055,
+        "time_to_ca_seconds": 739.6,
+        "relative_velocity_kms": 6.15,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 59.1 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-2298",
+        "object_2": "0 STARLINK-33760",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 51.347,
+        "time_to_ca_seconds": 209.1,
+        "relative_velocity_kms": 10.338,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 51.3 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-34661",
+        "object_2": "0 STARLINK-3680",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 54.133,
+        "time_to_ca_seconds": 63.8,
+        "relative_velocity_kms": 11.092,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 54.1 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-35408",
+        "object_2": "0 STARLINK-35993",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 28.738,
+        "time_to_ca_seconds": 270.7,
+        "relative_velocity_kms": 10.82,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 28.7 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-3680",
+        "object_2": "0 STARLINK-34661",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 54.133,
+        "time_to_ca_seconds": 63.8,
+        "relative_velocity_kms": 11.092,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 54.1 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-2598",
+        "object_2": "0 STARLINK-1012",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 56.961,
+        "time_to_ca_seconds": 435.2,
+        "relative_velocity_kms": 10.949,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 57.0 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-34850",
+        "object_2": "0 STARLINK-34100",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 73.076,
+        "time_to_ca_seconds": 752.3,
+        "relative_velocity_kms": 5.512,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 73.1 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-2483",
+        "object_2": "0 STARLINK-4218",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 72.692,
+        "time_to_ca_seconds": 81.4,
+        "relative_velocity_kms": 10.367,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 72.7 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 TBA - TO BE ASSIGNED",
+        "object_2": "0 STARLINK-30913",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 94.159,
+        "time_to_ca_seconds": 718.0,
+        "relative_velocity_kms": 1.742,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 94.2 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-37132",
+        "object_2": "0 DELTA 2 R/B",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 45.738,
+        "time_to_ca_seconds": 1930.3,
+        "relative_velocity_kms": 2.229,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 45.7 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-35160",
+        "object_2": "0 STARLINK-32163",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 72.627,
+        "time_to_ca_seconds": 258.2,
+        "relative_velocity_kms": 8.614,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 72.6 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-32163",
+        "object_2": "0 STARLINK-35160",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 72.627,
+        "time_to_ca_seconds": 258.2,
+        "relative_velocity_kms": 8.614,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 72.6 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-32163",
+        "object_2": "0 STARLINK-6320",
+        "collision_probability": 3.2745747174555384e-48,
+        "pc_classification": "LOW",
+        "miss_distance_km": 11.781,
+        "time_to_ca_seconds": 230.3,
+        "relative_velocity_kms": 4.291,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (3.27e-48). Distance 11.8 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-35071",
+        "object_2": "0 STARLINK-4002",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 85.371,
+        "time_to_ca_seconds": 662.0,
+        "relative_velocity_kms": 6.558,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 85.4 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-30913",
+        "object_2": "0 TBA - TO BE ASSIGNED",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 94.159,
+        "time_to_ca_seconds": 718.0,
+        "relative_velocity_kms": 1.742,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 94.2 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-1012",
+        "object_2": "0 STARLINK-2598",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 56.961,
+        "time_to_ca_seconds": 435.2,
+        "relative_velocity_kms": 10.949,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 57.0 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-31967",
+        "object_2": "0 STARLINK-2055",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 59.055,
+        "time_to_ca_seconds": 739.6,
+        "relative_velocity_kms": 6.15,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 59.1 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-32029",
+        "object_2": "0 KUIPER-00249",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 77.89,
+        "time_to_ca_seconds": 191.3,
+        "relative_velocity_kms": 9.712,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 77.9 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-2228",
+        "object_2": "0 STARLINK-4056",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 64.683,
+        "time_to_ca_seconds": 135.1,
+        "relative_velocity_kms": 2.229,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 64.7 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-30353",
+        "object_2": "0 STARLINK-35276",
+        "collision_probability": 7.615106498008608e-107,
+        "pc_classification": "LOW",
+        "miss_distance_km": 16.1,
+        "time_to_ca_seconds": 86.0,
+        "relative_velocity_kms": 7.218,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (7.62e-107). Distance 16.1 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-35276",
+        "object_2": "0 STARLINK-30353",
+        "collision_probability": 7.615106498008608e-107,
+        "pc_classification": "LOW",
+        "miss_distance_km": 16.1,
+        "time_to_ca_seconds": 86.0,
+        "relative_velocity_kms": 7.218,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (7.62e-107). Distance 16.1 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-4056",
+        "object_2": "0 STARLINK-2228",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 64.683,
+        "time_to_ca_seconds": 135.1,
+        "relative_velocity_kms": 2.229,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 64.7 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-5233",
+        "object_2": "0 LEGION 4",
+        "collision_probability": 1.337022764806683e-131,
+        "pc_classification": "LOW",
+        "miss_distance_km": 17.341,
+        "time_to_ca_seconds": 340.4,
+        "relative_velocity_kms": 10.351,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (1.34e-131). Distance 17.3 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-3372",
+        "object_2": "0 STARLINK-32740",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 57.851,
+        "time_to_ca_seconds": 283.8,
+        "relative_velocity_kms": 5.479,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 57.9 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-5242",
+        "object_2": "0 STARLINK-31885",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 73.037,
+        "time_to_ca_seconds": 262.3,
+        "relative_velocity_kms": 10.826,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 73.0 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-4002",
+        "object_2": "0 STARLINK-35071",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 85.371,
+        "time_to_ca_seconds": 662.0,
+        "relative_velocity_kms": 6.558,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 85.4 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-4100",
+        "object_2": "0 YAOGAN-30 AC",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 99.881,
+        "time_to_ca_seconds": 242.5,
+        "relative_velocity_kms": 10.025,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 99.9 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-4280",
+        "object_2": "0 STARLINK-32941",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 60.961,
+        "time_to_ca_seconds": 100.1,
+        "relative_velocity_kms": 1.612,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 61.0 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-4208",
+        "object_2": "0 STARLINK-31946",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 83.571,
+        "time_to_ca_seconds": 194.1,
+        "relative_velocity_kms": 6.166,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 83.6 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-4095",
+        "object_2": "0 STARLINK-4032",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 65.248,
+        "time_to_ca_seconds": 387.6,
+        "relative_velocity_kms": 10.963,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 65.2 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-4218",
+        "object_2": "0 STARLINK-2483",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 72.692,
+        "time_to_ca_seconds": 81.4,
+        "relative_velocity_kms": 10.367,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 72.7 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-4493",
+        "object_2": "0 STARLINK-6320",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 48.279,
+        "time_to_ca_seconds": 660.6,
+        "relative_velocity_kms": 6.132,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 48.3 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      },
+      {
+        "object_1": "0 STARLINK-4032",
+        "object_2": "0 STARLINK-4095",
+        "collision_probability": 0.0,
+        "pc_classification": "LOW",
+        "miss_distance_km": 65.248,
+        "time_to_ca_seconds": 387.6,
+        "relative_velocity_kms": 10.963,
+        "uncertainty_km": 0.7071067811865476,
+        "action": "CONTINUE_ROUTINE",
+        "urgency": "LOW",
+        "priority": 10,
+        "reasoning": "Low collision probability (0.00e+00). Distance 65.2 km provides safety margin.",
+        "maneuver_recommendation": {
+          "required": false,
+          "maneuver_type": "none",
+          "condition": "continue nominal operations"
+        },
+        "tracking_frequency": {
+          "frequency": "6 hours (standard)",
+          "duration": "ongoing",
+          "ephemeris_update": "daily",
+          "tracking_mode": "routine"
+        }
+      }
+    ],
+    "unclassified": []
+  },
+  "summary": {
+    "execute_count": 4,
+    "monitor_count": 0,
+    "routine_count": 56,
+    "immediate_actions_required": 2
+  }
+}

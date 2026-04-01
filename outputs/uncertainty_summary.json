@@ -1,0 +1,13 @@
+{
+  "total_alerts": 60,
+  "highest_pc": 0.13726589535008,
+  "average_pc": 0.004642252882943535,
+  "median_pc": 0.0,
+  "std_pc": 0.02463021006730963,
+  "min_pc": 0.0,
+  "distribution": {
+    "high_risk_count": 4,
+    "medium_risk_count": 0,
+    "low_risk_count": 56
+  }
+}
